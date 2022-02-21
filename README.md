@@ -20,4 +20,4 @@ The `renv.lock` file can be used with the [`renv`](https://rstudio.github.io/ren
 
 ## Help
 
-If you find any problems with our analysis or the map, please feel free to [create an issue](https://github.com/360-info/report-vaccine-inequality/issues/new)!
+If you find any problems with our analysis or the map, please feel free to [create an issue](https://github.com/360-info/report-misinformation-infodemiology/issues/new)!
